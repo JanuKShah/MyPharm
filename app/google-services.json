@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "669378004614",
+    "project_id": "mypharm-d5b32",
+    "storage_bucket": "mypharm-d5b32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669378004614:android:2ed3985a1fab019c54b307",
+        "android_client_info": {
+          "package_name": "com.vruddhi.mypharm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669378004614-fmqp1b2lo8aodh0q2r9d4khgvjt3qme5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYQ93GXYdaJWScAdkCJXhoBcmoXMFjDTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669378004614-fmqp1b2lo8aodh0q2r9d4khgvjt3qme5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
