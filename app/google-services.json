@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "669378004614",
+    "firebase_url": "https://mypharm-d5b32-default-rtdb.firebaseio.com",
     "project_id": "mypharm-d5b32",
     "storage_bucket": "mypharm-d5b32.appspot.com"
   },
@@ -13,6 +14,14 @@
         }
       },
       "oauth_client": [
+        {
+          "client_id": "669378004614-kncrs4bi7jrc63dkdoceu489krorfsl1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vruddhi.mypharm",
+            "certificate_hash": "55796b538e0cde2d19fee3073f16746853b7616b"
+          }
+        },
         {
           "client_id": "669378004614-fmqp1b2lo8aodh0q2r9d4khgvjt3qme5.apps.googleusercontent.com",
           "client_type": 3
